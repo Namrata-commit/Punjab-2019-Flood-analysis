@@ -1,5 +1,8 @@
 # 2019 Punjab floods analysis using Earth Engine Python API and geemap
 
+View the NoteBook at -
+https://nbviewer.jupyter.org/github/Namrata-commit/Punjab-2019-Flood-analysis/blob/master/Punjab_Floods.ipynb
+
 
 geemap, developed by Dr. Qiusheng Wu, is a Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets. 
 Since it is a wrapper around ipyleaflet and ipywidgets, it enables users to analyze and visualize Earth Engine datasets interactively 
